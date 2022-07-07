@@ -1,13 +1,13 @@
 .section-1st {
-    background-image: url(images/salvation1.jpg);
-    width: 80%;
-    height: 400px;
+    background-image: url(images/img3.jpg);
+    width: 65%;
+    height: 550px;
     margin: 0 auto;
     background-repeat: no-repeat;
 }
 
 .main h2 {
-    color: antiquewhite;
+    color: rgb(248, 236, 5);
     font-size: 50px;
     text-align: center;
     text-transform: capitalize;
@@ -17,7 +17,7 @@
 
 .main {
     text-align: center;
-    color: blue;
+    color: rgb(243, 10, 10);
     padding-top: 60px;
 }
 
@@ -107,10 +107,10 @@
     margin-bottom: 0px;
 }
 
-.main-1 p {
+.list-donate {
     margin: 0px 400px;
     font-size: 20px;
-    color: rgba(82, 71, 71, 0.719);
+    color: rgba(11, 180, 247, 0.719);
 }
 
 .card-continer {
@@ -146,6 +146,23 @@
     color: rgba(82, 71, 71, 0.719);
 }
 
+.donation img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+.donation p {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(48, 48, 214);
+    font-size: 20px;
+    text-align: center;
+}
+
 .section-bonus {
     display: flex;
     margin: 75px 180px;
@@ -153,7 +170,7 @@
 
 .img-bonus img {
     width: 400px;
-    height: 400px;
+    height: 300px;
     margin: 50px;
 }
 
@@ -164,8 +181,8 @@
 }
 
 .section-bonus p {
-    font-size: 15px;
-    color: rgba(98, 71, 71, 0.801);
+    font-size: 20px;
+    color: rgba(217, 118, 118, 0.801);
 }
 
 .text-p {
